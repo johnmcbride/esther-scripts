@@ -16,4 +16,4 @@ For more information please visit [Esther Barthel on twitter](https://twitter.co
 
 ## Getting started
 
-For getting started building the package or creating the RSS feed check out the gettingstarted.md document.
+For getting started building the package or creating the RSS feed check out the [gettingstarted.md](gettingstarted.md) document.
