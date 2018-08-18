@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Citrix Script packages</title>
+    <description>Custom feed for Citrix Script packages</description>
+    <link>http://developer.citrix.com</link>
+    <item>
+      <title>CongnitionIT</title>
+      <description>A Test package showing how to package up scripts and make them available in the Citrix Developer Extension</description>
+      <author>Esther Barthel</author>
+      <link>https://www.github.com/johnmcbride/esther-scripts-package/VSIXFeed/CongnitionIT.vsix?raw=true</link>
+    </item>
+  </channel>
+</rss>
