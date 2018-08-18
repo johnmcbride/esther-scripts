@@ -1,0 +1,8 @@
+{
+    "packageId":"scripts.cognitionit",
+    "packageName":"CongnitionIT",
+    "packageDescription":"A Test package showing how to package up scripts and make them available in the Citrix Developer Extension",
+    "version":"1.0.0",
+    "author":"Esther Barthel",
+    "mainFile":""
+}
