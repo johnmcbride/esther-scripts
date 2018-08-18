@@ -1,0 +1,3 @@
+# make sure we do not uploade the output directory. This gets created
+# when you package up your scripts, it will create an output directory.
+output
